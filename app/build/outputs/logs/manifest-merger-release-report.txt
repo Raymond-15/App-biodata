@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:design:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e5b497f38c2c9a71c3cd821248776fea/AndroidManifest.xml:17:1-24:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.7.0.aar/7acde30cc62e3fed822e35d82c11f561/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.mohammadatif:CircularImageView:1.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/CircularImageView-1.0.0.aar/495b8b043f9048af97767098125d8d6e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/99d7d19ad6d7455f1d7a8467c1bd36db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kaizen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b89dfce5facbe91bf64bb13f673a233f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ae66740e3778b7dcdc105936bdc860f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0adbeeae57ba2d15aec9c36c5ae0b3b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/a572d22ffd3ef12d3ba74949533faaea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/52c91dd48a3e131ad8eb324b0d5c1c13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/dc9f976c20e4a4899cfe8d11213ded87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e78f59e1a9af670ff282673e4cd35965/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/cac0f600a3bc7f7d7e8d5816ee046296/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5b4b3b61ed232dce626b1d194d90c7cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0a3840274b33ab73dfd56b79ebd77038/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8bfbc04227362016ba1d2b031d4d95c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/79ea022dc815f616fa0546f7f76f1bc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c597f00efb9f0a7c677c17c63acf2179/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b8c06e3627ccd38bd249fd838a32e88c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/eaa4bde00c1bf69ed189ea59f2a76ff2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/abc7b5d0958d0b7ffb8e989fe5c37840/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ffcb6191a4b51c411b9dc03fa6289efe/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/16b18e1222c83425382a0e22d5374d44/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3204d078e1a97b9b93ac3809de53760c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/abbd80a47559a69c13343c7ea9176609/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/1104cb7b7f99b944345b182b3e6c6d86/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a665b6ac50ad78171cda8276c43ec3fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0ce0cc361773aabefb012b5d3b7e7584/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5622e0c7e8109d0aa02762776ed33476/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a7ac02d70c80a64d9564a372ae5931a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fbd6c102405e2cf64ae25f60297d8b1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8cbf954bd4f140d2e84553a1297aaac8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f7ebe62bc08f6859f4b0c0f9dd44a7a1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e3f59036a23f4f3f8754a410c53aeff6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c9c0f8196b8a552a3c08a8f5576db77f/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support:design:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e5b497f38c2c9a71c3cd821248776fea/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e5b497f38c2c9a71c3cd821248776fea/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kaizen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b89dfce5facbe91bf64bb13f673a233f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kaizen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b89dfce5facbe91bf64bb13f673a233f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ffcb6191a4b51c411b9dc03fa6289efe/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ffcb6191a4b51c411b9dc03fa6289efe/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/16b18e1222c83425382a0e22d5374d44/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/16b18e1222c83425382a0e22d5374d44/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ffcb6191a4b51c411b9dc03fa6289efe/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.py7.appbiodata.MainActivity
+ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:12:9-16:20
+	android:label
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:13:13-41
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:17:9-19:47
+	android:theme
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:19:13-44
+	android:name
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:18:13-76
+activity#com.example.py7.appbiodata.AddActivity
+ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:20:9-49
+	android:name
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:20:19-46
+activity#com.example.py7.appbiodata.EditActivity
+ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:21:19-47
+activity#com.example.py7.appbiodata.SpalshScreenActivity
+ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:23:9-30:20
+	android:theme
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:23:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e5b497f38c2c9a71c3cd821248776fea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/e5b497f38c2c9a71c3cd821248776fea/AndroidManifest.xml:20:5-44
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.7.0.aar/7acde30cc62e3fed822e35d82c11f561/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.7.0.aar/7acde30cc62e3fed822e35d82c11f561/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mohammadatif:CircularImageView:1.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/CircularImageView-1.0.0.aar/495b8b043f9048af97767098125d8d6e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mohammadatif:CircularImageView:1.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/CircularImageView-1.0.0.aar/495b8b043f9048af97767098125d8d6e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/99d7d19ad6d7455f1d7a8467c1bd36db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/99d7d19ad6d7455f1d7a8467c1bd36db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kaizen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b89dfce5facbe91bf64bb13f673a233f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kaizen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b89dfce5facbe91bf64bb13f673a233f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ae66740e3778b7dcdc105936bdc860f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ae66740e3778b7dcdc105936bdc860f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0adbeeae57ba2d15aec9c36c5ae0b3b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0adbeeae57ba2d15aec9c36c5ae0b3b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/a572d22ffd3ef12d3ba74949533faaea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/a572d22ffd3ef12d3ba74949533faaea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/52c91dd48a3e131ad8eb324b0d5c1c13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/52c91dd48a3e131ad8eb324b0d5c1c13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/dc9f976c20e4a4899cfe8d11213ded87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/dc9f976c20e4a4899cfe8d11213ded87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e78f59e1a9af670ff282673e4cd35965/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e78f59e1a9af670ff282673e4cd35965/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/cac0f600a3bc7f7d7e8d5816ee046296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/cac0f600a3bc7f7d7e8d5816ee046296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5b4b3b61ed232dce626b1d194d90c7cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5b4b3b61ed232dce626b1d194d90c7cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0a3840274b33ab73dfd56b79ebd77038/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0a3840274b33ab73dfd56b79ebd77038/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8bfbc04227362016ba1d2b031d4d95c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8bfbc04227362016ba1d2b031d4d95c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/79ea022dc815f616fa0546f7f76f1bc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/79ea022dc815f616fa0546f7f76f1bc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c597f00efb9f0a7c677c17c63acf2179/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c597f00efb9f0a7c677c17c63acf2179/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b8c06e3627ccd38bd249fd838a32e88c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b8c06e3627ccd38bd249fd838a32e88c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/eaa4bde00c1bf69ed189ea59f2a76ff2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/eaa4bde00c1bf69ed189ea59f2a76ff2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/abc7b5d0958d0b7ffb8e989fe5c37840/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/abc7b5d0958d0b7ffb8e989fe5c37840/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ffcb6191a4b51c411b9dc03fa6289efe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ffcb6191a4b51c411b9dc03fa6289efe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/16b18e1222c83425382a0e22d5374d44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/16b18e1222c83425382a0e22d5374d44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3204d078e1a97b9b93ac3809de53760c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3204d078e1a97b9b93ac3809de53760c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/abbd80a47559a69c13343c7ea9176609/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/abbd80a47559a69c13343c7ea9176609/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/1104cb7b7f99b944345b182b3e6c6d86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/1104cb7b7f99b944345b182b3e6c6d86/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a665b6ac50ad78171cda8276c43ec3fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a665b6ac50ad78171cda8276c43ec3fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0ce0cc361773aabefb012b5d3b7e7584/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0ce0cc361773aabefb012b5d3b7e7584/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5622e0c7e8109d0aa02762776ed33476/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5622e0c7e8109d0aa02762776ed33476/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a7ac02d70c80a64d9564a372ae5931a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a7ac02d70c80a64d9564a372ae5931a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fbd6c102405e2cf64ae25f60297d8b1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fbd6c102405e2cf64ae25f60297d8b1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8cbf954bd4f140d2e84553a1297aaac8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/kaizen/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8cbf954bd4f140d2e84553a1297aaac8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f7ebe62bc08f6859f4b0c0f9dd44a7a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f7ebe62bc08f6859f4b0c0f9dd44a7a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e3f59036a23f4f3f8754a410c53aeff6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e3f59036a23f4f3f8754a410c53aeff6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c9c0f8196b8a552a3c08a8f5576db77f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/kaizen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c9c0f8196b8a552a3c08a8f5576db77f/AndroidManifest.xml:20:5-44
+INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kaizen/Documents/Biodata-master/app/src/main/AndroidManifest.xml

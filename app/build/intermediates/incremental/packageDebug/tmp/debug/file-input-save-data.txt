@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Jul 11 22:51:00 WITA 2021
+0.base=/home/kaizen/Documents/Biodata-master/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+1.baseType=DIRECTORY
+count=2
+1.path=classes.dex
+0.baseType=DIRECTORY
+1.set=DEX
+1.base=/home/kaizen/Documents/Biodata-master/app/build/intermediates/transforms/dexMerger/debug/1
+0.set=DEX
